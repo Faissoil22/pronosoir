@@ -15,7 +15,7 @@ function Page() {
                 <ul>
                     <li>
                         <li>
-                            <strong>St-Etienne VS Marseille, 2 Avril 2022  20:00</strong>
+                            <strong>St-Etienne VS Marseille, 2 Avril 2022 20:00</strong>
                         </li>
                         <img src="./images/ste_mar.png" />
                         <p></p>
@@ -101,10 +101,19 @@ function Page() {
                     <li>Average corners</li>
                 </ul>
             </div>
+            <div class="liens">
+                <a target="amazon" href="https://www.amazon.fr/b?_encoding=UTF8&tag=mespronosduwe-21&linkCode=ur2&linkId=2ce0e53864dd1d3833af3b45ff238c0f&camp=1642&creative=6746&node=302049">
+                    100 livres super
+                </a>
+            </div>
             <ul>
                 <footer>
                     <p>
-                        <p><small><strong>Sachez que jouer aux jeux de hasard comporte des risques</strong></small></p>
+                        <p>
+                            <small>
+                                <strong>Sachez que jouer aux jeux de hasard comporte des risques</strong>
+                            </small>
+                        </p>
                         <small>(c) AliF 2022. Tous droits Réservés</small>
                     </p>
                 </footer>
