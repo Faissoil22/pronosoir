@@ -7,7 +7,7 @@ function Page() {
                     <img src="./react-logo.png" width="100px" />
                 </nav>
             </header>
-            <div className="container">
+            <div class="container">
                 <h1>Mes pronostics gratuits du weekend. </h1>
                 <p>
                     <strong>Ligue 1</strong>
@@ -100,11 +100,6 @@ function Page() {
                     <li>Over goals de 0.5 à 2.5 dans chaque mi-temps</li>
                     <li>Average corners</li>
                 </ul>
-            </div>
-            <div className="liens">
-                <a target="amazon" href="https://www.amazon.fr/b?_encoding=UTF8&tag=mespronosduwe-21&linkCode=ur2&linkId=2ce0e53864dd1d3833af3b45ff238c0f&camp=1642&creative=6746&node=302049">
-                    100 livres super
-                </a>
             </div>
             <ul>
                 <footer>
