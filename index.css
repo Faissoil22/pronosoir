@@ -8,8 +8,9 @@ html, body {
     padding: 20px;
 }
 
-
 nav {
     display: flex;
     justify-content: space-between;
 }
+
+footer { padding: 20px}
