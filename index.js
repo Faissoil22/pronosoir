@@ -105,6 +105,7 @@ function Page() {
                 <a target="amazon" href="https://www.amazon.fr/b?_encoding=UTF8&tag=mespronosduwe-21&linkCode=ur2&linkId=2ce0e53864dd1d3833af3b45ff238c0f&camp=1642&creative=6746&node=302049">
                     100 livres super
                 </a>
+                <p><iframe src="https://rcm-eu.amazon-adsystem.com/e/cm?o=8&p=48&l=ur1&category=prime_student&banner=08Y1G45JJB18HNPAKP82&f=ifr&linkID=9f26cf9b56512dea0a05ff736d56d1e3&t=mespronosduwe-21&tracking_id=mespronosduwe-21" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0" sandbox="allow-scripts allow-same-origin allow-popups allow-top-navigation-by-user-activation"></iframe></p>
             </div>
             <ul>
                 <footer>
