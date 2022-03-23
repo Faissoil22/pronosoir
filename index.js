@@ -105,7 +105,6 @@ function Page() {
                 <a target="amazon" href="https://www.amazon.fr/b?_encoding=UTF8&tag=mespronosduwe-21&linkCode=ur2&linkId=2ce0e53864dd1d3833af3b45ff238c0f&camp=1642&creative=6746&node=302049">
                     100 livres super
                 </a>
-               
             </div>
             <ul>
                 <footer>
