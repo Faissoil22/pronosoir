@@ -17,12 +17,12 @@ function Page() {
                         <li>
                             <strong>St-Etienne VS Marseille, 2 Avril 2022  20:00</strong>
                         </li>
-                        <img src="../images/ste_mar.png" />
+                        <img src="./images/ste_mar.png" />
                         <p></p>
                         <li>
                             <strong>Paris SG VS Lorient, 3 Avril 2022 19:45</strong>
                         </li>
-                        <img src="../images/psg_lor.png" />
+                        <img src="./images/psg_lor.png" />
                     </li>
                 </ul>
                 <p>
@@ -33,12 +33,12 @@ function Page() {
                         <li>
                             <strong>FC Barcelone VS FC Séville, 3 Avril 2022 20:00</strong>
                         </li>
-                        <img src="../images/bar_sev.png" />
+                        <img src="./images/bar_sev.png" />
                         <p></p>
                         <li>
                             <strong>Real Sociedad VS Espanyol, 4 Avril 2022 20:00</strong>
                         </li>
-                        <img src="../images/soc_esp.png" />
+                        <img src="./images/soc_esp.png" />
                     </li>
                 </ul>
                 <p>
@@ -49,12 +49,12 @@ function Page() {
                         <li>
                             <strong>Salertina Vs Torino, 2 Avril 2022 19:45</strong>
                         </li>
-                        <img src="../images/sal_tor.png" />
+                        <img src="./images/sal_tor.png" />
                         <p></p>
                         <li>
                             <strong>AC Milan VS Bologna, 4 Avril 2022 19:45</strong>
                         </li>
-                        <img src="../images/mil_bol.png" />
+                        <img src="./images/mil_bol.png" />
                     </li>
                 </ul>
                 <p>
@@ -65,12 +65,12 @@ function Page() {
                         <li>
                             <strong>Tottenham VS Newcastle, 3 Avril 2022 16:30</strong>
                         </li>
-                        <img src="../images/tot_new.png" />
+                        <img src="./images/tot_new.png" />
                         <p></p>
                         <li>
                             <strong>Mantchester Utd VS Leicester, 2 Avril 2022 17:30</strong>
                         </li>
-                        <img src="../images/man_lei.png" />
+                        <img src="./images/man_lei.png" />
                     </li>
                 </ul>
                 <p>
@@ -81,12 +81,12 @@ function Page() {
                         <li>
                             <strong>Dortmund VS Leipzig, 2 Avril 2022 17:30</strong>
                         </li>
-                        <img src="../images/dor_leip.png" />
+                        <img src="./images/dor_leip.png" />
                         <p></p>
                         <li>
                             <strong>Mgladbach VS Mayance, 3 Avril 2022 16:30</strong>
                         </li>
-                        <img src="../images/mgl_may.png" />
+                        <img src="./images/mgl_may.png" />
                     </li>
                 </ul>
                 <p>Mes pronostics se basent sur la comparaison des statistiques des matchs à domicile et à l'extérieur des deux équipes d'une rencontre. Sont prises en compte dans mes calculs:</p>
